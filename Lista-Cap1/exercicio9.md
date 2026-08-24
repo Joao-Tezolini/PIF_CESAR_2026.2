@@ -1,0 +1,2 @@
+Visualmente para o usuário, a saída permanece a mesma. A diferença está em como o compilador lê, interpreta e imprime esses caracteres.
+No caso de utilizar as sequências de escape dentro da própria string, elas são convertidas para texto no momento da compilação. Já no formato apresentado na questão 9, as sequências de escape são tratadas como caracteres e são passadas no momento de execução do código, sendo substituídas dentro da string em tempo real.

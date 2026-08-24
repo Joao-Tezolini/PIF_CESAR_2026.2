@@ -1,0 +1,17 @@
+Constante       Tipo                        Tipo em C
+
+\r              [ Sequencia de escape ]     [ char ]
+2130            [ inteiro decimal ]         [ int ]
+-123            [ inteiro decimal ]         [ int ]
+33.28           [ ponto flutuante ]         [ double ]
+0XFA            [ hexadecimal ]             [ int ]
+0101            [ inteiro binário ]         [ int ]
+2.0e30          [ notação científica ]      [ double ]
+\xDC            [ seq. esc. hexa ]          [ char ]
+'\"'            [ Const. de caractere ]     [ char ]
+'\\'            [ Const. de caractere ]     [ char ]
+'F'             [ Const. de caractere ]     [ char ]
+0               [ inteiro decimal ]         [ int ]
+'\0'            [ Const. de caractere ]     [ char ]
+"F"             [ Const. string ]           [ char ]
+-4567.89        [ ponto flutuante ]         [ double ]

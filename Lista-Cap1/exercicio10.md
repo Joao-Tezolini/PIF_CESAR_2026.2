@@ -1,0 +1,2 @@
+Cada caractere em C é associado a um código da tabela ASCII. Portanto, letras maiúsculas e minúsculas são, fundamentalmente, letras diferentes, associadas a códigos diferentes.
+Por exemplo, a letra "a" é associada ao código 97 e a letra "A" ao código 65. 
