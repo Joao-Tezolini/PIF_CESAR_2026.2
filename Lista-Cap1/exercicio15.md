@@ -1,0 +1,2 @@
+A alternativa correta é a C.
+As linhas de código iniciadas por "#" são diretivas direcionadas ao pré-processador, que processa essas linhas antes do compilador traduzir o resto do código para linguagem de máquina.

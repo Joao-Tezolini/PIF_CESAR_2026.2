@@ -1,0 +1,2 @@
+A resposta correta é a alternativa A.
+A linha de comando "#include <stdio.h>" serve para o compilador saber o que cada função dessa biblioteca faz, quando utilizada no código. Isso porque, caso uma outra biblioteca use funções com nomes idênticos as da biblioteca padrão, o compilador precisa referenciar aquela biblioteca para o funcionamento do código.

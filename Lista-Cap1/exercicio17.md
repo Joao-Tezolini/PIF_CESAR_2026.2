@@ -1,0 +1,1 @@
+Com excessão da alternativa D, todas as outras 3 estão corretas. Isso mostra como a linguagem C, apesar de ser sensível a caixa alta e baixa, tem pouca sensibilidade a espaços entre notações chave de suas funções.

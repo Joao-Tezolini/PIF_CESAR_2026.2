@@ -1,0 +1,2 @@
+A resposta correta é a alternativa C.
+Os arquivos header (.h) são feitos para manter as funções (apenas em forma de cabeçalho), novos tipos (structs), valores fixamente definidos (#define) e as bibliotecas utilizadas no código.
