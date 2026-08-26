@@ -29,4 +29,4 @@ int main() { /* Função main */  /* início do corpo da função main */
 
     printf("O resultado da potencia de %d elevado a %d é: %d.\n", base, expoente, potencia);
     return 0;
-}/* Fim do corpo da função main */
+} /* Fim do corpo da função main */
