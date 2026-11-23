@@ -1,0 +1,4 @@
+6.
+a) `#include <stdio.h>` procura o arquivo nos diretórios padrão das bibliotecas do sistema/compilador e é usada para cabeçalhos padrão do C. Já `#include "areas.h"` procura primeiro na pasta atual do projeto e é usada para arquivos de cabeçalho criados pelo próprio programador.
+b) `#undef SOMA` remove a definição da macro `SOMA`, fazendo ela deixar de existir a partir daquele ponto. A forma `#undef SOMA(x,y)` está incorreta porque o `#undef` recebe apenas o nome da macro, sem parênteses nem argumentos.
+c) Será impressa a mensagem `Modo normal`. Essa decisão acontece no pré-processamento, antes da compilação: o pré-processador verifica o `#ifdef DEBUG`, mantém apenas o trecho do `#else` e remove as diretivas e o código descartado antes de passar o arquivo para o compilador. Por isso, apenas o código C restante é compilado e nenhuma diretiva aparece no executável final.
